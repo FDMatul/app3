@@ -14,7 +14,7 @@ class TonerregistroController extends Controller
      */
     public function index()
     {
-        //
+        return  view('inventario.tonerreg');
     }
 
     /**
